@@ -1,0 +1,4 @@
+345,umair,asd%,19,0
+45668,bisma,asdf$,25,0
+4323,junior1,csd@,18,0
+6,junior2,66@`,18,0
